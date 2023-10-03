@@ -4,14 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff418ee4-eb55-4d01-b664-fc773d4515dd" name="更改" comment="" />
+    <list default="true" id="ff418ee4-eb55-4d01-b664-fc773d4515dd" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/pages.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/public" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,7 +50,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696320369289</updated>
       <workItem from="1696320372129" duration="928000" />
-      <workItem from="1696321628250" duration="836000" />
+      <workItem from="1696321628250" duration="1450000" />
     </task>
     <servers />
   </component>
